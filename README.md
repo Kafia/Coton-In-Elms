@@ -1,2 +1,2 @@
 # Coton-In-Elms
-Coton In The Elms Primary School
+TeamSutlej working on Coton In The Elms Primary School Wordpress Theme
