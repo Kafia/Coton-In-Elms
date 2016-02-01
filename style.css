@@ -139,9 +139,12 @@ border:1px solid white;
 	width="145px"
 }
 .two{
-	
+	border:1px solid white;
 	float:right;
-	margin-right:23px;
+	margin-right:30px;
+	 -webkit-transform: rotate(2deg); 
+	  box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 4px;
+
 }
 
 .three{
