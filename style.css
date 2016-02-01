@@ -99,6 +99,28 @@ position:relative;
     margin-top: 20px;
     margin-bottom: 20px;
 }
+a:link {
+    color: white;
+    
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+    
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    
+    text-decoration: none;
+}
+
+a:active{
+	color:white;
+	text-decoration:none;
+	
+}
+
 .lg{
 border:1px solid white;
     border-radius: 55%;
