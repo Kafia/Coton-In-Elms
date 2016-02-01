@@ -38,8 +38,8 @@ margin-left:-56px;
 background-color:white;
 height:600px;
 width:730px;
-margin-top:-451px;
-margin-left:348px;
+margin-top:-412px;
+margin-left:351px;
 border:1px solid black;
  box-shadow: rgba(0, 0, 0, 0.9) 0px 10px 15px;
  
@@ -149,7 +149,7 @@ border:1px solid white;
 
 .three{
 	border-radius:50%;
-	margin-left:115px;
+	margin-left:84px;
 	position:absolute;
-	margin-top:-17px;
+	margin-top:-23px;
 }
