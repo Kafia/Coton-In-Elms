@@ -1,5 +1,5 @@
 .wrapper{
-height:900px;
+height:795px;
  
 }
 .header{
@@ -16,7 +16,7 @@ margin-left:-56px;
 
   background-image: url('imag/ggg.jpg');
   width: 100%;
-  height: 1000px;
+  height: 871px;
 
   -webkit-filter: blur(6px);
   clear:both;
@@ -74,7 +74,7 @@ height:80px;
 background-color:#383838;
 
 color:white;
-margin-top:20px;
+margin-top:75px;
 
 font-family:sans-serif;
 
