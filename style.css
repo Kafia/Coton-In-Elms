@@ -99,23 +99,23 @@ position:relative;
     margin-top: 20px;
     margin-bottom: 20px;
 }
-a:link {
+.aside a:link {
     color: white;
     
     text-decoration: none;
 }
-a:visited {
+.aside a:visited {
     color: blue;
     
     text-decoration: none;
 }
-a:hover {
+.aside a:hover {
     color: white;
     
     text-decoration: none;
 }
 
-a:active{
+.aside a:active{
 	color:white;
 	text-decoration:none;
 	
