@@ -19,7 +19,7 @@ margin-left:-56px;
 
   background-image: url('imag/ggg.jpg');
   width: 100%;
-  height: 905px;
+  height: 907px;
 
   -webkit-filter: blur(6px);
   clear:both;
@@ -38,7 +38,7 @@ margin-left:-56px;
 background-color:white;
 height:600px;
 width:730px;
-margin-top:-539px;
+margin-top:-451px;
 margin-left:348px;
 border:1px solid black;
  box-shadow: rgba(0, 0, 0, 0.9) 0px 10px 15px;
@@ -118,5 +118,5 @@ border:1px solid white;
 	border-radius:50%;
 	margin-left:115px;
 	position:absolute;
-	margin-top:-33px;
+	margin-top:-17px;
 }
