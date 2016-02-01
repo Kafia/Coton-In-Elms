@@ -48,10 +48,18 @@ img{
 
 margin-left:60px;
 }	
-h2{
+h3{
 color:	#00CED1;
 margin-left:30px;
-font-family:sans-serif;
+margin-top:37px;
+line-height:20px;
+
+}
+h2{
+	color:#1E90FF;
+	
+margin-left:30px;
+
 line-height:20px;
 
 }
